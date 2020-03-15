@@ -1,0 +1,4 @@
+/target/
+
+[core]
+excludesfile = C:\Users\ahoudu\eclipse-workspace\test_git\Java.gitignore
